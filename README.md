@@ -11,7 +11,7 @@ To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
 Clone the repository from GitHub.
 
 ### Step 2:
-Create Django Admin project.
+Create Django Admin project. 
 
 ### Step 3:
 Create a New App under the Django Admin project.
